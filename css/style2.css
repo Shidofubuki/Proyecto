@@ -1,0 +1,304 @@
+/* Div de Fondo */
+.todo{
+    background: hsla(12, 10%, 10%, 0.097);
+} 
+
+/* doroy */
+.descripcion {
+    background: hsla(0, 10%, 100%, 0.7);
+    color: black;
+    width: 800px;
+    height: 450px;
+    padding: 20px;
+    margin: 20px;
+    margin-top: 100px;
+    margin-left: 120px;
+    text-align: justify;
+}
+
+/* Imagen 1 debajo de la imagen de maps */
+.imagen {
+    margin: 10px auto;
+    padding: 20px;
+    text-align: center;
+    top: 62%;
+    left: 82%;
+    position: absolute;
+    transform: translate(-50%,-50%);
+}
+/* EL silborcito */
+
+/* El Silbolcito */
+.sil {
+    background: hsla(0, 10%, 100%, 0.7);
+    color: black;
+    width: 700px;
+    height: 1600px;
+    padding: 20px;
+    margin: 20px;
+    margin-top: 100px;
+    margin-left: 120px;
+    text-align: justify;
+}
+
+.silimagen1 {
+    margin: 10px auto;
+    padding: 20px;
+    text-align: center;
+    top: 65%;
+    left: 83%;
+    position: absolute;
+    transform: translate(-50%,-50%);
+}
+
+.silimagen2 {
+    margin: 10px auto;
+    padding: 20px;
+    text-align: center;
+    top: 138%;
+    left: 83%;
+    position: absolute;
+    transform: translate(-50%,-50%);
+}
+
+
+.silimagen3 {
+    margin: 10px auto;
+    padding: 20px;
+    text-align: center;
+    top: 210%;
+    left: 83%;
+    position: absolute;
+    transform: translate(-50%,-50%);
+}
+
+
+
+
+/* El Ecce Homo */
+.eccedescripcion {
+    background: hsla(0, 10%, 100%, 0.7);
+    color: black;
+    width: 700px;
+    height: 400px;
+    padding: 20px;
+    margin: 20px;
+    margin-top: 100px;
+    margin-left: 120px;
+    text-align: justify;
+}
+.ecce{
+    margin: 10px auto;
+    padding: 20px;
+    text-align: center;
+    top: 53%;
+    left: 82%;
+    position: absolute;
+    transform: translate(-50%,-50%);
+}
+
+/* Fin ecce */
+
+
+
+
+
+
+/*Buey */
+.buedescripcion {
+    background: hsla(0, 10%, 100%, 0.7);
+    color: black;
+    width: 700px;
+    height: 1250px;
+    padding: 20px;
+    margin: 20px;
+    margin-top: 100px;
+    margin-left: 120px;
+    text-align: justify;
+}
+
+.buey {
+    margin: 10px auto;
+    padding: 20px;
+    text-align: center;
+    top: 72%;
+    left: 85%;
+    position: absolute;
+    transform: translate(-50%,-50%);
+}
+
+.buey1 {
+    margin: 10px auto;
+    padding: 20px;
+    text-align: center;
+    top: 150%;
+    left: 85%;
+    position: absolute;
+    transform: translate(-50%,-50%);
+}
+/* Fin buey */
+
+
+
+
+/*Francisco */
+.frandescripcion {
+    background: hsla(0, 10%, 100%, 0.7);
+    color: black;
+    width: 700px;
+    height: 550px;
+    padding: 20px;
+    margin: 20px;
+    margin-top: 100px;
+    margin-left: 120px;
+    text-align: justify;
+}
+
+.franimagen {
+    margin: 10px auto;
+    padding: 20px;
+    text-align: center;
+    top: 62%;
+    left: 82%;
+    position: absolute;
+    transform: translate(-50%,-50%);
+}
+
+/*fin de Francisco */
+
+
+
+/*los monitos */
+.monitos{
+    background: hsla(0, 10%, 100%, 0.7);
+    color: black;
+    width: 700px;
+    height: 1050px;
+    padding: 20px;
+    margin: 20px;
+    margin-top: 100px;
+    margin-left: 120px;
+    text-align: justify;
+}
+
+.moniimagen {
+    margin: 10px auto;
+    padding: 20px;
+    text-align: center;
+    top: 62%;
+    left: 82%;
+    position: absolute;
+    transform: translate(-50%,-50%);
+}
+
+
+.moniimagen2 {
+    margin: 10px auto;
+    padding: 20px;
+    text-align: center;
+    top: 142%;
+    left: 82%;
+    position: absolute;
+    transform: translate(-50%,-50%);
+}
+
+/*fin de monitos */
+
+
+/*Inicio animas */
+.animas {
+    background: hsla(0, 10%, 100%, 0.7);
+    color: black;
+    width: 700px;
+    height: 400px;
+    padding: 20px;
+    margin: 20px;
+    margin-top: 100px;
+    margin-left: 120px;
+    text-align: justify;
+}
+
+.anima {
+    margin: 10px auto;
+    padding: 20px;
+    text-align: center;
+    top: 55%;
+    left: 82%;
+    position: absolute;
+    transform: translate(-50%,-50%);
+}
+
+/* Fin animas */
+
+
+
+
+/*Inicio animas */
+.sirenas {
+    background: hsla(0, 10%, 100%, 0.7);
+    color: black;
+    width: 700px;
+    height: 400px;
+    padding: 20px;
+    margin: 20px;
+    margin-top: 100px;
+    margin-left: 120px;
+    text-align: justify;
+}
+
+.sirena{
+    margin: 10px auto;
+    padding: 20px;
+    text-align: center;
+    top: 55%;
+    left: 82%;
+    position: absolute;
+    transform: translate(-50%,-50%);
+}
+
+/* Fin animas */
+
+
+
+
+
+
+
+
+
+
+/*Inicio doroy */
+.doroy {
+    background: hsla(0, 10%, 100%, 0.7);
+    color: black;
+    width: 700px;
+    height: 400px;
+    padding: 20px;
+    margin: 20px;
+    margin-top: 100px;
+    margin-left: 120px;
+    text-align: justify;
+}
+
+.doroy1{
+    margin: 10px auto;
+    padding: 20px;
+    text-align: center;
+    top: 55%;
+    left: 82%;
+    position: absolute;
+    transform: translate(-50%,-50%);
+}
+
+/* Fin doroy */
+
+
+
+/* Carusel */
+.carousel img{
+    width: 500px;
+    Height: 450px;
+    margin: 20px;
+}
+
+/* Fin carusel */ 

@@ -1,0 +1,787 @@
+/* Div de Fondo */
+.todo{
+    background: hsla(12, 10%, 10%, 0.097);
+} 
+
+
+/* Valledupar */
+.valledescripcion {
+    background: hsla(0, 10%, 100%, 0.7);
+    color: black;
+    width: 700px;
+    height: 500px;
+    padding: 20px;
+    margin: 20px;
+    margin-top: 100px;
+    margin-left: 120px;
+    text-align: justify;
+}
+.valleimagen {
+    margin: 10px auto;
+    padding: 20px;
+    text-align: center;
+    top: 58%;
+    left: 82%;
+    position: absolute;
+    transform: translate(-50%,-50%);
+    
+}
+
+.valleimagen1 {
+    margin: 10px auto;
+    padding: 20px;
+    text-align: center;
+    top: 85%;
+    left: 82%;
+    position: absolute;
+    transform: translate(-50%,-50%);
+    
+}
+
+
+/* Fin de valledupar */
+
+/* Inicio leadro */
+.leodescripcion {
+    background: hsla(0, 10%, 100%, 0.7);
+    color: black;
+    width: 700px;
+    height: 500px;
+    padding: 20px;
+    margin: 20px;
+    margin-top: 100px;
+    margin-left: 120px;
+    text-align: justify;
+}
+
+.leoimagenmap {
+    margin: 10px auto;
+    padding: 20px;
+    text-align: center;
+    top: 55%;
+    left: 84%;
+    position: absolute;
+    transform: translate(-50%,-50%);
+}
+
+/* Fin de Leandro */
+
+
+
+
+
+/* Inicio musico */
+.musicos {
+    background: hsla(0, 10%, 100%, 0.7);
+    color: black;
+    width: 700px;
+    height: 980px;
+    padding: 20px;
+    margin: 20px;
+    margin-top: 100px;
+    margin-left: 120px;
+    text-align: justify;
+}
+
+.musico {
+    margin: 10px auto;
+    padding: 20px;
+    text-align: center;
+    top: 50%;
+    left: 82%;
+    position: absolute;
+    transform: translate(-50%,-50%);
+}
+.musico1 {
+    margin: 10px auto;
+    padding: 20px;
+    text-align: center;
+    top: 100%;
+    left: 82%;
+    position: absolute;
+    transform: translate(-50%,-50%);
+    
+}
+
+.musico2 {
+    margin: 10px auto;
+    padding: 20px;
+    text-align: center;
+    top: 150%;
+    left: 82%;
+    position: absolute;
+    transform: translate(-50%,-50%);
+    
+}
+
+.musico3 {
+    margin: 10px auto;
+    padding: 20px;
+    text-align: center;
+    top: 220%;
+    left: 82%;
+    position: absolute;
+    transform: translate(-50%,-50%);
+    
+}
+/* FIn de los musicos */
+
+
+
+
+/* Maria Mulata */
+.mariamulatas {
+    background: hsla(0, 10%, 100%, 0.7);
+    color: black;
+    width: 700px;
+    height: 900px;
+    padding: 20px;
+    margin: 20px;
+    margin-top: 100px;
+    margin-left: 120px;
+    text-align: justify;
+}
+.mariamulata {
+    margin: 10px auto;
+    padding: 20px;
+    text-align: center;
+    top: 45%;
+    left: 82%;
+    position: absolute;
+    transform: translate(-50%,-50%);
+}
+.mariamulata1 {
+    margin: 10px auto;
+    padding: 20px;
+    text-align: center;
+    top: 90%;
+    left: 82%;
+    position: absolute;
+    transform: translate(-50%,-50%);
+}
+
+.mariamulata2 {
+    margin: 10px auto;
+    padding: 20px;
+    text-align: center;
+    top: 135%;
+    left: 82%;
+    position: absolute;
+    transform: translate(-50%,-50%);
+    
+}
+/* Fin de mariamulata */
+
+
+/* La Pilonera Mayor */
+.descripcion1 {
+    background: hsla(0, 10%, 100%, 0.7);
+    color: black;
+    width: 800px;
+    height: 1500px;
+    padding: 20px;
+    margin: 20px;
+    margin-top: 100px;
+    margin-left: 120px;
+    text-align: justify;
+}
+
+/* Los gallos */
+.descripcion11{
+    background: hsla(0, 10%, 100%, 0.7);
+    color: black;
+    width: 700px;
+    height: 1200px;
+    padding: 20px;
+    margin: 20px;
+    margin-top: 100px;
+    margin-left: 120px;
+    text-align: justify;
+}
+.descripcion12 {
+    margin: 10px auto;
+    padding: 20px;
+    text-align: center;
+    top: 50%;
+    left: 82%;
+    position: absolute;
+    transform: translate(-50%,-50%);
+}
+.descripcion13 {
+    margin: 10px auto;
+    padding: 20px;
+    text-align: center;
+    top: 100%;
+    left: 82%;
+    position: absolute;
+    transform: translate(-50%,-50%);
+    
+}
+
+.descripcion14 {
+    margin: 10px auto;
+    padding: 20px;
+    text-align: center;
+    top: 150%;
+    left: 82%;
+    position: absolute;
+    transform: translate(-50%,-50%);
+    
+}
+
+/* Fin gallos */
+
+/* Pedazo de acordeon */
+.descripcion3 {
+    background: hsla(0, 10%, 100%, 0.7);
+    color: black;
+    width: 800px;
+    height: 1100px;
+    padding: 20px;
+    margin: 20px;
+    margin-top: 100px;
+    margin-left: 120px;
+    text-align: justify;
+}
+
+/* Revolucion en marcha */
+.descripcion4 {
+    background: hsla(0, 10%, 100%, 0.7);
+    color: black;
+    width: 800px;
+    height: 1200px;
+    padding: 20px;
+    margin: 20px;
+    margin-top: 100px;
+    margin-left: 120px;
+    text-align: justify;
+}
+
+/* Los Poporos */
+.descripcion5 {
+    background: hsla(0, 10%, 100%, 0.7);
+    color: black;
+    width: 800px;
+    height: 850px;
+    padding: 20px;
+    margin: 20px;
+    margin-top: 100px;
+    margin-left: 120px;
+    text-align: justify;
+}
+
+/* Glorieta los juglares */
+.glorietas {
+    background: hsla(0, 10%, 100%, 0.7);
+    color: black;
+    width: 700px;
+    height: 700px;
+    padding: 20px;
+    margin: 20px;
+    margin-top: 100px;
+    margin-left: 120px;
+    text-align: justify;
+}
+
+.glorieta {
+    margin: 10px auto;
+    padding: 20px;
+    text-align: center;
+    top: 50%;
+    left: 82%;
+    position: absolute;
+    transform: translate(-50%,-50%);
+}
+
+.glorieta1 {
+    margin: 10px auto;
+    padding: 20px;
+    text-align: center;
+    top: 100%;
+    left: 82%;
+    position: absolute;
+    transform: translate(-50%,-50%);
+}
+
+/* Fin de glorieta de juhgalres */
+
+/* pedazos */
+.pedazos {
+    background: hsla(0, 10%, 100%, 0.7);
+    color: black;
+    width: 700px;
+    height: 800px;
+    padding: 20px;
+    margin: 20px;
+    margin-top: 100px;
+    margin-left: 120px;
+    text-align: justify;
+}
+
+.pedazo {
+    margin: 10px auto;
+    padding: 20px;
+    text-align: center;
+    top: 50%;
+    left: 82%;
+    position: absolute;
+    transform: translate(-50%,-50%);
+}
+
+.pedazo1 {
+    margin: 10px auto;
+    padding: 20px;
+    text-align: center;
+    top: 100%;
+    left: 82%;
+    position: absolute;
+    transform: translate(-50%,-50%);
+}
+
+/* Fin de pedazo */
+
+
+/* pilonera */
+.piloneras {
+    background: hsla(0, 10%, 100%, 0.7);
+    color: black;
+    width: 700px;
+    height: 1100px;
+    padding: 20px;
+    margin: 20px;
+    margin-top: 100px;
+    margin-left: 120px;
+    text-align: justify;
+}
+
+.pilonera {
+    margin: 10px auto;
+    padding: 20px;
+    text-align: center;
+    top: 50%;
+    left: 82%;
+    position: absolute;
+    transform: translate(-50%,-50%);
+}
+
+.pilonera1 {
+    margin: 10px auto;
+    padding: 20px;
+    text-align: center;
+    top: 95%;
+    left: 82%;
+    position: absolute;
+    transform: translate(-50%,-50%);
+}
+
+.pilonera2 {
+    margin: 10px auto;
+    padding: 20px;
+    text-align: center;
+    top: 155%;
+    left: 82%;
+    position: absolute;
+    transform: translate(-50%,-50%);
+}
+
+
+/* Fin de pilonera*/
+
+/* poporos */
+.popos {
+    background: hsla(0, 10%, 100%, 0.7);
+    color: black;
+    width: 700px;
+    height: 650px;
+    padding: 20px;
+    margin: 20px;
+    margin-top: 100px;
+    margin-left: 120px;
+    text-align: justify;
+}
+
+.popo {
+    margin: 10px auto;
+    padding: 20px;
+    text-align: center;
+    top: 50%;
+    left: 82%;
+    position: absolute;
+    transform: translate(-50%,-50%);
+}
+
+.popo1 {
+    margin: 10px auto;
+    padding: 20px;
+    text-align: center;
+    top: 95%;
+    left: 82%;
+    position: absolute;
+    transform: translate(-50%,-50%);
+}
+
+/* Fin de popo*/
+
+
+/* santana */
+.santana {
+    background: hsla(0, 10%, 100%, 0.7);
+    color: black;
+    width: 700px;
+    height: 650px;
+    padding: 20px;
+    margin: 20px;
+    margin-top: 100px;
+    margin-left: 120px;
+    text-align: justify;
+}
+
+.santa {
+    margin: 10px auto;
+    padding: 20px;
+    text-align: center;
+    top: 50%;
+    left: 82%;
+    position: absolute;
+    transform: translate(-50%,-50%);
+}
+
+.santa1 {
+    margin: 10px auto;
+    padding: 20px;
+    text-align: center;
+    top: 95%;
+    left: 82%;
+    position: absolute;
+    transform: translate(-50%,-50%);
+}
+
+/* Fin de santana*/
+
+
+/* revolucion */
+.revolucion {
+    background: hsla(0, 10%, 100%, 0.7);
+    color: black;
+    width: 700px;
+    height: 850px;
+    padding: 20px;
+    margin: 20px;
+    margin-top: 100px;
+    margin-left: 120px;
+    text-align: justify;
+}
+
+.revo {
+    margin: 10px auto;
+    padding: 20px;
+    text-align: center;
+    top: 45%;
+    left: 82%;
+    position: absolute;
+    transform: translate(-50%,-50%);
+}
+
+.revo1 {
+    margin: 10px auto;
+    padding: 20px;
+    text-align: center;
+    top: 88%;
+    left: 82%;
+    position: absolute;
+    transform: translate(-50%,-50%);
+}
+
+.revo2 {
+    margin: 10px auto;
+    padding: 20px;
+    text-align: center;
+    top: 132%;
+    left: 82%;
+    position: absolute;
+    transform: translate(-50%,-50%);
+}    
+/* Fin de revolucion*/
+
+/* upar */
+.cacique {
+    background: hsla(0, 10%, 100%, 0.7);
+    color: black;
+    width: 700px;
+    height: 1200px;
+    padding: 20px;
+    margin: 20px;
+    margin-top: 100px;
+    margin-left: 120px;
+    text-align: justify;
+}
+
+.upar {
+    margin: 10px auto;
+    padding: 20px;
+    text-align: center;
+    top: 50%;
+    left: 82%;
+    position: absolute;
+    transform: translate(-50%,-50%);
+}
+
+.upar1 {
+    margin: 10px auto;
+    padding: 20px;
+    text-align: center;
+    top: 93%;
+    left: 82%;
+    position: absolute;
+    transform: translate(-50%,-50%);
+}
+
+.upar2 {
+    margin: 10px auto;
+    padding: 20px;
+    text-align: center;
+    top: 138%;
+    left: 82%;
+    position: absolute;
+    transform: translate(-50%,-50%);
+}    
+/* Fin de upar/
+
+
+/* cesar */
+.cesar{
+    background: hsla(0, 10%, 100%, 0.7);
+    color: black;
+    width: 700px;
+    height: 400px;
+    padding: 20px;
+    margin: 20px;
+    margin-top: 100px;
+    margin-left: 120px;
+    text-align: justify;
+}
+.cesar1 {
+    margin: 10px auto;
+    padding: 20px;
+    text-align: center;
+    top: 50%;
+    left: 82%;
+    position: absolute;
+    transform: translate(-50%,-50%);
+}
+/* Fin de cesar*/
+
+
+/* mina */
+.mina{
+    background: hsla(0, 10%, 100%, 0.7);
+    color: black;
+    width: 700px;
+    height: 550px;
+    padding: 20px;
+    margin: 20px;
+    margin-top: 100px;
+    margin-left: 120px;
+    text-align: justify;
+}
+
+.mina1 {
+    margin: 10px auto;
+    padding: 20px;
+    text-align: center;
+    top: 68%;
+    left: 82%;
+    position: absolute;
+    transform: translate(-50%,-50%);
+}
+/* Fin de mina*/
+
+
+
+
+/* helado*/
+.helado{
+    background: hsla(0, 10%, 100%, 0.7);
+    color: black;
+    width: 700px;
+    height: 650px;
+    padding: 20px;
+    margin: 20px;
+    margin-top: 100px;
+    margin-left: 120px;
+    text-align: justify;
+}
+
+.helado1 {
+    margin: 10px auto;
+    padding: 20px;
+    text-align: center;
+    top: 68%;
+    left: 82%;
+    position: absolute;
+    transform: translate(-50%,-50%);
+}
+/* Fin de helado*/
+
+
+
+/* iglesia */
+.iglesia{
+    background: hsla(0, 10%, 100%, 0.7);
+    color: black;
+    width: 700px;
+    height: 300px;
+    padding: 20px;
+    margin: 20px;
+    margin-top: 100px;
+    margin-left: 120px;
+    text-align: justify;
+}
+
+.iglesia1 {
+    margin: 10px auto;
+    padding: 20px;
+    text-align: center;
+    top: 45%;
+    left: 82%;
+    position: absolute;
+    transform: translate(-50%,-50%);
+}
+/* Fin de iglesia*/
+
+
+/* museo */
+.museo{
+    background: hsla(0, 10%, 100%, 0.7);
+    color: black;
+    width: 700px;
+    height: 400px;
+    padding: 20px;
+    margin: 20px;
+    margin-top: 100px;
+    margin-left: 120px;
+    text-align: justify;
+}
+
+.museo1 {
+    margin: 10px auto;
+    padding: 20px;
+    text-align: center;
+    top: 55%;
+    left: 82%;
+    position: absolute;
+    transform: translate(-50%,-50%);
+}
+/* Fin de museo*/
+
+
+/*purru */
+.purru{
+    background: hsla(0, 10%, 100%, 0.7);
+    color: black;
+    width: 700px;
+    height: 450px;
+    padding: 20px;
+    margin: 20px;
+    margin-top: 100px;
+    margin-left: 120px;
+    text-align: justify;
+}
+
+.purru1 {
+    margin: 10px auto;
+    padding: 20px;
+    text-align: center;
+    top: 55%;
+    left: 82%;
+    position: absolute;
+    transform: translate(-50%,-50%);
+}
+/*purru*/
+
+
+
+/* leyenda*/
+.leyenda{
+    background: hsla(0, 10%, 100%, 0.7);
+    color: black;
+    width: 700px;
+    height: 450px;
+    padding: 20px;
+    margin: 20px;
+    margin-top: 100px;
+    margin-left: 120px;
+    text-align: justify;
+}
+
+.leyenda1 {
+    margin: 10px auto;
+    padding: 20px;
+    text-align: center;
+    top: 60%;
+    left: 82%;
+    position: absolute;
+    transform: translate(-50%,-50%);
+}
+/* Fin de leyenda*/
+
+/* leyenda*/
+.plaza{
+    background: hsla(0, 10%, 100%, 0.7);
+    color: black;
+    width: 700px;
+    height: 450px;
+    padding: 20px;
+    margin: 20px;
+    margin-top: 100px;
+    margin-left: 120px;
+    text-align: justify;
+}
+
+.plaza1 {
+    margin: 10px auto;
+    padding: 20px;
+    text-align: center;
+    top: 60%;
+    left: 82%;
+    position: absolute;
+    transform: translate(-50%,-50%);
+}
+/* Fin de leyenda*/
+
+
+/* obelisco*/
+.obelisco{
+    background: hsla(0, 10%, 100%, 0.7);
+    color: black;
+    width: 700px;
+    height: 350px;
+    padding: 20px;
+    margin: 20px;
+    margin-top: 100px;
+    margin-left: 120px;
+    text-align: justify;
+}
+
+.obelisco1 {
+    margin: 10px auto;
+    padding: 20px;
+    text-align: center;
+    top: 60%;
+    left: 82%;
+    position: absolute;
+    transform: translate(-50%,-50%);
+}
+/* Fin de obelisco*/
+
+
+
+
+/* Carusel */
+.carousel img{
+    width: 500px;
+    Height: 450px;
+    margin: 20px;
+}
+
+/* Fin carusel */ 
